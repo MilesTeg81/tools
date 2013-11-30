@@ -1,0 +1,80 @@
+CRC1:3949595374,
+CRC2: BCF-Missing,
+source: wizard.txt,
+moves to: wizard.txt
+
+CRC1:3300257306,
+CRC2: 569255610,
+source: Option 0\Textures\actors\dragon\dragonskeleton.dds,
+moves to: 00 Option 0\Textures\actors\dragon\dragonskeleton.dds
+
+CRC1:2431607661,
+CRC2: 569255610,
+source: Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton_n.dds,
+moves to: 00 Option 0\Textures\actors\dragon\dragonskeleton_n.dds
+
+CRC1:1670272860,
+CRC2: 569255610,
+source: Option 1\Textures\actors\dragon\dragonskeleton.dds,
+moves to: 00 Option 1\Textures\actors\dragon\dragonskeleton.dds
+
+CRC1:2225439056,
+CRC2: 569255610,
+source: Option 1\Textures\actors\dragon\dragonskeleton_n.dds,
+moves to: 00 Option 1\Textures\actors\dragon\dragonskeleton_n.dds
+
+CRC1:2075501818,
+CRC2: 569255610,
+source: Option 2\Textures\actors\dragon\dragonskeleton.dds,
+moves to: 00 Option 2\Textures\actors\dragon\dragonskeleton.dds
+
+CRC1:2098033311,
+CRC2: 569255610,
+source: Option 3\Textures\actors\dragon\dragonskeleton_n.dds,
+moves to: 00 Option 2\Textures\actors\dragon\dragonskeleton_n.dds
+
+CRC1:684631676,
+CRC2: 569255610,
+source: Option 3\Textures\actors\dragon\dragonskeleton.dds,
+moves to: 00 Option 3\Textures\actors\dragon\dragonskeleton.dds
+
+CRC1:2098033311,
+CRC2: 569255610,
+source: Option 3\Textures\actors\dragon\dragonskeleton_n.dds,
+moves to: 00 Option 3\Textures\actors\dragon\dragonskeleton_n.dds
+
+CRC1:3650064626,
+CRC2: 569255610,
+source: Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton.dds,
+moves to: 00 Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton.dds
+
+CRC1:2431607661,
+CRC2: 569255610,
+source: Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton_n.dds,
+moves to: 00 Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton_n.dds
+
+CRC1:1877928590,
+CRC2: 569255610,
+source: Fomod\Opt 0.jpg,
+moves to: Wizard Images\Opt 0.jpg
+
+CRC1:4186640107,
+CRC2: 569255610,
+source: Fomod\Opt 1.jpg,
+moves to: Wizard Images\Opt 1.jpg
+
+CRC1:3625739315,
+CRC2: 569255610,
+source: Fomod\Opt 2.jpg,
+moves to: Wizard Images\Opt 2.jpg
+
+CRC1:1169286316,
+CRC2: 569255610,
+source: Fomod\Opt 3.jpg,
+moves to: Wizard Images\Opt 3.jpg
+
+CRC1:2972784214,
+CRC2: 569255610,
+source: Fomod\Opt 4 - No Flesh.jpg,
+moves to: Wizard Images\Opt 4 - No Flesh.jpg
+
