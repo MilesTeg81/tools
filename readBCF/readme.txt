@@ -1,8 +1,8 @@
 ==short readme for now==
+requires python 2.7x (for now). exe might come later.
+
 usage:
 readBCF.py [filename]
-
-
 
 or just 
 readBCF.py

@@ -1,0 +1,16 @@
+3949595374,BCF-Missing,wizard.txt,wizard.txt
+3300257306,569255610,Option 0\Textures\actors\dragon\dragonskeleton.dds,00 Option 0\Textures\actors\dragon\dragonskeleton.dds
+2431607661,569255610,Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton_n.dds,00 Option 0\Textures\actors\dragon\dragonskeleton_n.dds
+1670272860,569255610,Option 1\Textures\actors\dragon\dragonskeleton.dds,00 Option 1\Textures\actors\dragon\dragonskeleton.dds
+2225439056,569255610,Option 1\Textures\actors\dragon\dragonskeleton_n.dds,00 Option 1\Textures\actors\dragon\dragonskeleton_n.dds
+2075501818,569255610,Option 2\Textures\actors\dragon\dragonskeleton.dds,00 Option 2\Textures\actors\dragon\dragonskeleton.dds
+2098033311,569255610,Option 3\Textures\actors\dragon\dragonskeleton_n.dds,00 Option 2\Textures\actors\dragon\dragonskeleton_n.dds
+684631676,569255610,Option 3\Textures\actors\dragon\dragonskeleton.dds,00 Option 3\Textures\actors\dragon\dragonskeleton.dds
+2098033311,569255610,Option 3\Textures\actors\dragon\dragonskeleton_n.dds,00 Option 3\Textures\actors\dragon\dragonskeleton_n.dds
+3650064626,569255610,Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton.dds,00 Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton.dds
+2431607661,569255610,Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton_n.dds,00 Option 4 - No Flesh\Textures\actors\dragon\dragonskeleton_n.dds
+1877928590,569255610,Fomod\Opt 0.jpg,Wizard Images\Opt 0.jpg
+4186640107,569255610,Fomod\Opt 1.jpg,Wizard Images\Opt 1.jpg
+3625739315,569255610,Fomod\Opt 2.jpg,Wizard Images\Opt 2.jpg
+1169286316,569255610,Fomod\Opt 3.jpg,Wizard Images\Opt 3.jpg
+2972784214,569255610,Fomod\Opt 4 - No Flesh.jpg,Wizard Images\Opt 4 - No Flesh.jpg
