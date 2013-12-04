@@ -6,7 +6,7 @@ import glob
 import subprocess
 
 
-def getMeta(filename):
+def getMeta():
 	csvData=""
 	#current dir is enough for now
 	inputdir=""
@@ -17,10 +17,11 @@ def getMeta(filename):
 		newData = ConfigParser.ConfigParser()
 		newData.readfp(open(metafile))
 		zipFilename=metafile.replace(".meta","")
+		print inputdir+"md5sum.exe \""+ zipFilename+"\""
 		md5sum=subprocess.check_output(inputdir+"md5sum.exe \""+ zipFilename+"\"")
 		md5sum=md5sum.split("*")[0]
 		row = [ zipFilename, md5sum ]
-		wantedOptions = ["fileID", "modID", "Version", "ModName"]
+		wantedOptions = ["fileID", "modID", "Version", "name", "modName","newestVersion"]
 		for x in wantedOptions:
 			row.append(	newData.get("General", x) )
 		print "Row: ", row
@@ -50,5 +51,5 @@ except IOError:
 	print'Cannot find file!'
 	sys.exit()
 '''
-#getMeta(sys.argv[1])
-getMeta("Original-4817-2-0.7z.meta")
+getMeta()
+#getMeta("Original-4817-2-0.7z.meta")
