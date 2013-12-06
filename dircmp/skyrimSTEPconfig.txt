@@ -1,0 +1,38 @@
+Quadcore,SSD, 
+RAMDRIVE!
+http://support.microsoft.com/kb/257405
+
+7zip multithreaded:
+http://superuser.com/questions/408631/how-do-i-enable-multi-threaded-lzma2-using-7-zip-9-20-on-the-command-line
+
+ToDo: 
+
+-Tracking Center sync with Step Core (excel)
+-check if all files are there
+-do core package for every step
+-comments in config!
+
+semantic tables:
+http://wiki.step-project.com/index.php?title=Special%3AAsk&q=[[Category%3AModSection_D]]%0D%0A[[IsCore%3A%3Atrue]]&po=%3F%3DMod+Short+Name%23%0D%0A%3FSourceID%3DNexus+ID%0D%0A%3FFullName%3DMod+Full+Name%0D%0A%3FSourceURL%3DDownload%0D%0A&eq=yes&p[format]=broadtable&sort_num=&order_num=ASC&p[limit]=500&p[offset]=&p[link]=all&p[sort]=&p[headers]=show&p[mainlabel]=Mod+Short+Name&p[intro]=&p[outro]=&p[searchlabel]=%E2%80%A6+further+results&p[default]=&p[class]=sortable+wikitable+smwtable&eq=yes
+
+BIG
+http://wiki.step-project.com/index.php?title=Special%3AAsk&q=[[Category%3AModSection_D]]%0D%0A[[IsCore%3A%3Atrue]]&po=%3F%3DMod+Short+Name%23%0D%0A%3FSourceID%3DNexus+ID%0D%0A%3FFullName%3DMod+Full+Name%0D%0A%3FSourceURL%3DDownload%0D%0A%3FDocDescription%0D%0A%3FDescription%0D%0A%3FAffectsFPS%0D%0A%3FAffectsVRAM%0D%0A%3FCompatibleBAIN%0D%0A%3FCompatibleFOMOD%0D%0A%3FDocDescription%0D%0A%3FDocInstall%0D%0A%3FDocUninstall%0D%0A%3FFullName%0D%0A%3FHasMCM%0D%0A%3FHasResource%0D%0A%3FHasScript%0D%0A%3FHasSkyProc%0D%0A%3FIsClean%0D%0A%3FIsCore%0D%0A%3FIsOptimized%0D%0A%3FLoreFriendly%0D%0A%3FPerformanceAvailable%0D%0A%3FQualityAvailable%0D%0A%3FRecommendations%0D%0A%3FSection%0D%0A%3FDLCInstalled%0D%0A%3FDLCList%0D%0A%3FDLCRequired%0D%0A%3FDLCSupported%0D%0A&eq=yes&p[format]=broadtable&sort_num=&order_num=ASC&p[limit]=500&p[offset]=&p[link]=all&p[sort]=&p[headers]=show&p[mainlabel]=Comprehensive+Mod+List&p[intro]=&p[outro]=&p[searchlabel]=%E2%80%A6+further+results&p[default]=&p[class]=sortable+wikitable+smwtable&eq=yes
+
+OrderID
+
+NEXT STEP!
+Step Core
+-Performance
+-Midway
+-High Quality
+-Vanilla
+-Sky
+
+
+NMM link ok? 
+
+document download names!
+normal; high quality; low quality; addition;
+
+OpenAll Links:
+Chrome Web Store - Open All Selected Links
